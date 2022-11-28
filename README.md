@@ -6,6 +6,7 @@ with the help of hallucinations technique.
 ## Table of Content
   * [Motivation](#motivation)
   * [Before working with project](#Before-working-with-project)
+  * [Web app](#)
   * [Requirements](#Requirements)
   * [Credits](#credits)
 
@@ -14,6 +15,14 @@ Everyting started with the term project of my friends. They were trying to figur
 what they were going to do and Teacher told them to do colorizing the black and white 
 images. When i searched, i found so many things and this is what i gathered around just 
 for a start. I want to continue on this project. 
+
+## Web App
+I did not know we could do such a thing. Maybe you do not know 
+either thats why I m putting this app.py here just look it out
+
+1. intall streamlit with ->  pip install streamlit
+2. to work with it  -> streamlit run app.py
+3. open up the url given by program here you go. 
 
 
 ## Before working with project 
